@@ -2,7 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "页析",
+  title: '页析',
+  titleTemplate: '页析',
   description: "一个浏览器扩展，分析网页内容",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -28,5 +29,6 @@ export default defineConfig({
   }
 })
 export default {
-  title: '页析'
+  title: '页析',
+  titleTemplate: '页析'
 }
