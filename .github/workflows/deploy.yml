@@ -56,7 +56,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: qwe12345678.github.io
+      url: 183600.github.io
     needs: build
     runs-on: ubuntu-latest
     name: Deploy
