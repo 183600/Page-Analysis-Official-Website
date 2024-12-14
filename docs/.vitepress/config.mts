@@ -8,21 +8,22 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+          { text: 'gitee', link: 'https://gitee.com/qwe12345678/web-page-analysis' },
+          { text: 'github', link: 'https://github.com/183600/web-page-analysis' }
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'gitee', link: 'https://gitee.com/qwe12345678/web-page-analysis' },
+          { text: 'github', link: 'https://github.com/183600/web-page-analysis' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'gitee', link: 'https://gitee.com/qwe12345678/web-page-analysis' }
     ]
   }
 })
