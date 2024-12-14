@@ -1,3 +1,3 @@
 export default {
-  base: '/Page-Analysis-Official-Website/'
+  base: '/web-page-analysis_1/'
 }
