@@ -28,7 +28,3 @@ export default defineConfig({
     ]
   }
 })
-export default {
-  title: '页析',
-  titleTemplate: '页析'
-}
