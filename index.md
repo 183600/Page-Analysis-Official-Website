@@ -1,8 +1,8 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-title: 页析
-titleTemplate: 页析
+title: 主页
+titleTemplate: 主页
 themeConfig: 
   logo: /icon.png
 
