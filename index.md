@@ -2,6 +2,7 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 title: 主页
+titleTemplate: 页析
 themeConfig: 
   logo: /icon.png
 
