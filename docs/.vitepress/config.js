@@ -1,7 +1,7 @@
-import { defineConfig } from 'vitepress'
+// import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default {
   title: '页析',
   titleTemplate: '页析',
   description: "一个浏览器扩展，分析网页内容",
@@ -27,4 +27,4 @@ export default defineConfig({
       { icon: 'gitee', link: 'https://gitee.com/qwe12345678/web-page-analysis' }
     ]
   }
-})
+}
